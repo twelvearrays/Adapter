@@ -1,4 +1,4 @@
-import 'promise-polyfill/src/polyfill'
+//mport 'promise-polyfill/src/polyfill'
 
 import { EventEmitter } from 'eventemitter3'
 import whenDomReady from 'when-dom-ready'
